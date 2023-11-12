@@ -1,5 +1,6 @@
-Name,Age,Gender
-John,28,M
-Emily,23,F
-Mike,35,M
-Lisa,31,F
+Triage,Age,Gender
+1,28,M
+2,23,F
+3,35,M
+4,31,F
+5,50,F
