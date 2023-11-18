@@ -21,3 +21,5 @@ https://pynative.com/python-timestamp/
 https://medium.com/nerd-for-tech/analyse-the-distribution-of-ages-python-data-analysis-series-part-1-cc0fb2ca7f36
 
 https://www.geeksforgeeks.org/random-sampling-in-numpy-randint-function/
+
+https://stats.oarc.ucla.edu/other/mult-pkg/whatstat/what-is-the-difference-between-categorical-ordinal-and-interval-variables/#:~:text=A%20categorical%20variable%20
