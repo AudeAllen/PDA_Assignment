@@ -25,3 +25,6 @@ https://www.geeksforgeeks.org/random-sampling-in-numpy-randint-function/
 https://stats.oarc.ucla.edu/other/mult-pkg/whatstat/what-is-the-difference-between-categorical-ordinal-and-interval-variables/#:~:text=A%20categorical%20variable%20
 
 https://numpy.org/doc/stable/reference/random/generated/numpy.random.triangular.html
+
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.lognormal.html
+
