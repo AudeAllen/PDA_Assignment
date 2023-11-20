@@ -28,3 +28,5 @@ https://numpy.org/doc/stable/reference/random/generated/numpy.random.triangular.
 
 https://numpy.org/doc/stable/reference/random/generated/numpy.random.lognormal.html
 
+https://www.sciencedirect.com/science/article/abs/pii/S1755599X20301038#:~:text=The%20Manchester%20Triage%20System%20is,blue %2C%20non%2Durgent
+
