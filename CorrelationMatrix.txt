@@ -1,0 +1,8 @@
+                                Age  Hours_in_Deparment  TRIAGE_CATEGORY
+GENDER                                                                  
+Female Age                 1.000000            0.218589        -0.357690
+       Hours_in_Deparment  0.218589            1.000000        -0.273136
+       TRIAGE_CATEGORY    -0.357690           -0.273136         1.000000
+Male   Age                 1.000000            0.299179        -0.265116
+       Hours_in_Deparment  0.299179            1.000000        -0.120763
+       TRIAGE_CATEGORY    -0.265116           -0.120763         1.000000
