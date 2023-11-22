@@ -1,10 +1,112 @@
 # PDA_Assignment
-PDA_Assignment
+
+# Programming for Data Analysis Project
+
+## Table of contents
+* [1 Introduction project](#1-introduction-project)
+    * [Problem Statement](#problem-statement)
+* [2 Software needed to run the project](#2-software-needed-to-run-the-project)	
+* [3 Attendances at an Emergency Department over a period of 24 hours](#3-attendances-at-an-Emergency-Department-over-a-period-of-24-hours)	
+* [4 Types of Variables and Scales of Measurement](#4-types-of-variables-and-scales-of-measurement)
+    * [Registration](#registration)
+    * [DISCH_DEST](#dISCH_dEST)
+    * [Age](#age)
+    * [Hours_in_Department](#hours_in_department)
+    * [TRIAGE_CATEGORY](#tRIAGE_cATEGORY)
+    * [Sex](#sex)
+* [5 Simulation of Dataset](#6-simulation-of-dataset)       
+* [6 Conclusion](#6-conclusion)             
+* [7 References](#7-references)   
+
+
+1 Introduction project
+======
+### ***Problem Statement***
+
+For this project you must create a data set by simulating a real-world phenomenon of
+your choosing. You may pick any phenomenon you wish – you might pick one that is
+of interest to you in your personal or professional life. Then, rather than collect data
+related to the phenomenon, you should model and synthesise such data using Python.
+We suggest you use the numpy.random package for this purpose.<br><br>
+Specifically, in this project you should:<br><br>
+    • Choose a real-world phenomenon that can be measured and for which you could
+    collect at least one-hundred data points across at least four different variables.<br>
+    • Investigate the types of variables involved, their likely distributions, and their
+    relationships with each other.<br>
+    • Synthesise/simulate a data set as closely matching their properties as possible.<br>
+    • Detail your research and implement the simulation in a Jupyter notebook – the
+    data set itself can simply be displayed in an output cell within the notebook.<br>
 
 
 
+2 Software needed to run the project 
+======
 
-References
+-	Visual Studio Code
+-	Python 3
+-	Github - https://github.com/AudeAllen/PDA_Assignment
+-   Jupyter Notebook
+
+How to run PDA_Assignment project - 
+- I have created my jupyter notebook in VS Code and uploaded to Github
+- The link to Github is https://github.com/AudeAllen/PDA_Assignment
+- My Jupyter Notebook is called PDA_Assignment.ipynb
+- I have uploaded all of my project files to my github respository.  Git is a version control system that I use in this project. (See Github link above)
+- Once in Github you will see my project file and links
+- You can download the Jupyter notebook from this location
+- I have all my images in the 'Images' folder
+- I have two .csv files 1. EDAttendances24Hour.csv (Original data file that I am basing my project on) 2. SimulatedED.csv (My simulated data file)
+- There are 6 variables in my dataset that I will analysis and simulate
+
+
+- This will run the script and create all the graphs and visual aids for this project
+- I have uploaded all of my project files to my github respository.  Git is a version control system that I use in this project. (See Github link above)
+
+
+The below libraries/packages were imported to aid analysis on the dataset
+- import numpy as np - numpy is a package for scientific computing in python  
+- import pandas as pd - python package that is used for data analysis
+- import matplotlib.pyplot as plt - data visualisation tool 
+- import seaborn as sns - data visualisation tool
+- import datetime as dt - Useful for visualising datetime in Python
+- import random - Random distribution funcionality
+
+
+3 Attendances at an Emergency Department over a period of 24 hours 
+======
+In this section I will go into some detail about the real world phenomenon that I have chosen for this project and why. I have chosen the phenomenon of 24 hours in an Emergency Department. 
+
+
+4 Types of Variables and Scales of Measurement
+======
+
+This section of my project goes into detail about the variable types in my dataset. I will explain the data types that can be assigned and why you would assign a particular data type to a variable.
+
+
+### ***Registration***
+
+This is the datetime that a patient arrives at the Emergency Department. I go into detail in this section about the variable Registration, the type of variable it is, type of distribution. Finally I simulate 24 hours data by using a numpy.random distribution function.
+
+### ***DISCH_DEST***
+
+### ***Age***
+
+### ***Hours_in_Department***
+
+### ***TRIAGE_CATEGORY***
+
+### ***Sex***
+
+
+5 Simulation of Dataset
+======
+
+6 Conclusion
+======
+
+
+7 References
+======
 
 https://www.investopedia.com/terms/b/bell-curve.asp#:~:text=The%20term%20%22bell%20curve%22%20is,given%20values%20around%20the%20mean
 
