@@ -30,3 +30,9 @@ https://numpy.org/doc/stable/reference/random/generated/numpy.random.lognormal.h
 
 https://www.sciencedirect.com/science/article/abs/pii/S1755599X20301038#:~:text=The%20Manchester%20Triage%20System%20is,blue %2C%20non%2Durgent
 
+https://www.jmp.com/en_au/statistics-knowledge-portal/what-is-correlation.html#:~:text=What%20is%20correlation%3F,statement%20about%20cause%20and%20effect
+
+https://www.geeksforgeeks.org/python-pearson-correlation-test-between-two-variables/
+
+https://karger.com/ger/article-abstract/59/1/17/148039/Correlation-between-Age-Emergency-Department?redirectedFrom=fulltext
+
