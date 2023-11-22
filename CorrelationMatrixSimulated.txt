@@ -1,8 +1,0 @@
-                                 Age  Hours_in_Department  TRIAGE_CATEGORY
-Sex                                                                       
-Female Age                  1.000000            -0.082345        -0.147516
-       Hours_in_Department -0.082345             1.000000         0.110075
-       TRIAGE_CATEGORY     -0.147516             0.110075         1.000000
-Male   Age                  1.000000            -0.043835         0.228988
-       Hours_in_Department -0.043835             1.000000        -0.328051
-       TRIAGE_CATEGORY      0.228988            -0.328051         1.000000
