@@ -1,124 +1,124 @@
 DateofAttendance1,DISCH_DEST,Age,Hours_in_Department,TRIAGE_CATEGORY,Sex
-2023-11-02 00:00:00.000000000,Discharged Home,23,12,4,Male
-2023-11-02 00:11:48.196721311,Discharged / Transferred to another hospital,18,18,1,Female
-2023-11-02 00:23:36.393442622,Did Not Wait,13,1,3,Male
-2023-11-02 00:35:24.590163934,Admitted to Ward,18,10,4,Female
-2023-11-02 00:47:12.786885245,Discharged Home,22,12,5,Female
-2023-11-02 00:59:00.983606557,Admitted to Ward,16,16,1,Male
-2023-11-02 01:10:49.180327868,Discharged Home,26,13,5,Female
-2023-11-02 01:22:37.377049180,Discharged Home,13,16,4,Female
-2023-11-02 01:34:25.573770491,Admitted to Ward,15,13,2,Male
-2023-11-02 01:46:13.770491803,Admitted to Ward,5,8,5,Male
-2023-11-02 01:58:01.967213114,Admitted to Ward,19,13,5,Male
-2023-11-02 02:09:50.163934426,Discharged Home,0,15,3,Male
-2023-11-02 02:21:38.360655737,Discharged Home,37,9,4,Male
-2023-11-02 02:33:26.557377049,Discharged Home,32,10,3,Female
-2023-11-02 02:45:14.754098360,Admitted to Ward,9,17,1,Male
-2023-11-02 02:57:02.950819672,Admitted to Ward,20,1,5,Female
-2023-11-02 03:08:51.147540983,Discharged Home,21,10,5,Female
-2023-11-02 03:20:39.344262295,Discharged Home,30,1,5,Female
-2023-11-02 03:32:27.540983606,Discharged Home,37,15,1,Male
-2023-11-02 03:44:15.737704918,Did Not Wait,22,15,2,Female
-2023-11-02 03:56:03.934426229,Discharged Home,34,16,2,Female
-2023-11-02 04:07:52.131147540,Admitted to Ward,31,4,3,Female
-2023-11-02 04:19:40.327868852,Discharged Home,25,26,5,Female
-2023-11-02 04:31:28.524590163,Discharged Home,35,10,4,Male
-2023-11-02 04:43:16.721311475,Admitted to Ward,27,24,5,Male
-2023-11-02 04:55:04.918032786,Did Not Wait,24,13,3,Male
-2023-11-02 05:06:53.114754098,Discharged Home,13,6,2,Male
-2023-11-02 05:18:41.311475409,Discharged / Transferred to another hospital,8,9,5,Female
-2023-11-02 05:30:29.508196721,Discharged Home,14,21,3,Female
-2023-11-02 05:42:17.704918032,Discharged Home,24,7,2,Female
-2023-11-02 05:54:05.901639344,Discharged Home,18,11,4,Female
-2023-11-02 06:05:54.098360655,Did Not Wait,31,3,4,Male
-2023-11-02 06:17:42.295081967,Discharged Home,10,13,4,Male
-2023-11-02 06:29:30.491803278,Discharged Home,29,25,5,Female
-2023-11-02 06:41:18.688524590,Admitted to Ward,27,14,4,Male
-2023-11-02 06:53:06.885245901,Admitted to Ward,18,13,1,Female
-2023-11-02 07:04:55.081967213,Discharged Home,2,9,3,Female
-2023-11-02 07:16:43.278688524,Admitted to Ward,10,11,2,Male
-2023-11-02 07:28:31.475409836,Discharged Home,26,6,5,Female
-2023-11-02 07:40:19.672131147,Admitted to Ward,15,9,4,Female
-2023-11-02 07:52:07.868852459,Discharged Home,20,13,4,Male
-2023-11-02 08:03:56.065573770,Discharged / Transferred to another hospital,51,12,4,Female
-2023-11-02 08:15:44.262295081,Discharged Home,65,5,3,Female
-2023-11-02 08:27:32.459016393,Discharged Home,52,17,2,Male
-2023-11-02 08:39:20.655737704,Admitted to Ward,40,5,5,Female
-2023-11-02 08:51:08.852459016,Discharged Home,34,15,3,Female
-2023-11-02 09:02:57.049180327,Discharged Home,48,4,1,Female
-2023-11-02 09:14:45.245901639,Admitted to Ward,63,3,4,Female
-2023-11-02 09:26:33.442622950,Discharged Home,37,10,3,Female
-2023-11-02 09:38:21.639344262,Discharged / Transferred to another hospital,38,7,4,Female
-2023-11-02 09:50:09.836065573,Discharged Home,56,1,5,Female
-2023-11-02 10:01:58.032786885,Discharged Home,67,8,3,Male
-2023-11-02 10:13:46.229508196,Did Not Wait,59,7,1,Female
-2023-11-02 10:25:34.426229508,Admitted to Ward,46,14,5,Female
-2023-11-02 10:37:22.622950819,Discharged Home,53,6,3,Male
-2023-11-02 10:49:10.819672131,Admitted to Ward,40,15,2,Male
-2023-11-02 11:00:59.016393442,Admitted to Ward,63,4,3,Male
-2023-11-02 11:12:47.213114754,Admitted to Ward,43,10,4,Male
-2023-11-02 11:24:35.409836065,Admitted to Ward,49,11,4,Male
-2023-11-02 11:36:23.606557377,Discharged Home,53,14,1,Male
-2023-11-02 11:48:11.803278688,Admitted to Ward,44,3,1,Female
-2023-11-02 12:00:00.000000000,Discharged Home,44,7,1,Female
-2023-11-02 12:11:48.196721311,Admitted to Ward,55,11,3,Male
-2023-11-02 12:23:36.393442622,Admitted to Ward,37,10,4,Male
-2023-11-02 12:35:24.590163934,Admitted to Ward,34,16,4,Male
-2023-11-02 12:47:12.786885245,Discharged Home,51,8,2,Female
-2023-11-02 12:59:00.983606557,Did Not Wait,57,18,1,Male
-2023-11-02 13:10:49.180327868,Discharged Home,66,3,2,Male
-2023-11-02 13:22:37.377049180,Discharged / Transferred to another hospital,51,21,5,Male
-2023-11-02 13:34:25.573770491,Discharged / Transferred to another hospital,52,3,2,Male
-2023-11-02 13:46:13.770491803,Discharged Home,45,19,1,Male
-2023-11-02 13:58:01.967213114,Discharged Home,59,9,1,Male
-2023-11-02 14:09:50.163934426,Discharged Home,49,11,1,Female
-2023-11-02 14:21:38.360655737,Discharged Home,46,18,5,Female
-2023-11-02 14:33:26.557377049,Admitted to Ward,52,4,4,Female
-2023-11-02 14:45:14.754098360,Discharged Home,52,8,5,Male
-2023-11-02 14:57:02.950819672,Discharged Home,59,8,4,Female
-2023-11-02 15:08:51.147540983,Discharged Home,67,13,1,Female
-2023-11-02 15:20:39.344262295,Admitted to Ward,36,17,4,Female
-2023-11-02 15:32:27.540983606,Discharged Home,57,16,2,Female
-2023-11-02 15:44:15.737704918,Discharged Home,52,23,4,Male
-2023-11-02 15:56:03.934426229,Discharged Home,43,18,4,Female
-2023-11-02 16:07:52.131147540,Admitted to Ward,51,5,3,Female
-2023-11-02 16:19:40.327868852,Discharged Home,65,13,2,Female
-2023-11-02 16:31:28.524590163,Admitted to Ward,52,9,2,Female
-2023-11-02 16:43:16.721311475,Discharged Home,40,11,4,Female
-2023-11-02 16:55:04.918032786,Discharged Home,34,1,2,Male
-2023-11-02 17:06:53.114754098,Discharged Home,48,7,3,Female
-2023-11-02 17:18:41.311475409,Did Not Wait,63,15,5,Male
-2023-11-02 17:30:29.508196721,Discharged / Transferred to another hospital,37,8,5,Female
-2023-11-02 17:42:17.704918032,Admitted to Ward,38,9,1,Female
-2023-11-02 17:54:05.901639344,Discharged Home,56,7,3,Female
-2023-11-02 18:05:54.098360655,Did Not Wait,67,15,4,Male
-2023-11-02 18:17:42.295081967,Discharged Home,59,10,4,Male
-2023-11-02 18:29:30.491803278,Discharged Home,46,2,5,Female
-2023-11-02 18:41:18.688524590,Discharged Home,53,2,5,Female
-2023-11-02 18:53:06.885245901,Admitted to Ward,40,9,4,Female
-2023-11-02 19:04:55.081967213,Discharged Home,63,4,1,Male
-2023-11-02 19:16:43.278688524,Admitted to Ward,43,12,3,Female
-2023-11-02 19:28:31.475409836,Discharged Home,49,20,1,Male
-2023-11-02 19:40:19.672131147,Discharged Home,53,24,4,Male
-2023-11-02 19:52:07.868852459,Discharged / Transferred to another hospital,44,5,5,Male
-2023-11-02 20:03:56.065573770,Discharged Home,44,9,5,Female
-2023-11-02 20:15:44.262295081,Discharged Home,55,9,5,Female
-2023-11-02 20:27:32.459016393,Did Not Wait,37,9,2,Male
-2023-11-02 20:39:20.655737704,Discharged Home,34,6,2,Female
-2023-11-02 20:51:08.852459016,Admitted to Ward,51,16,1,Male
-2023-11-02 21:02:57.049180327,Admitted to Ward,57,9,5,Female
-2023-11-02 21:14:45.245901639,Admitted to Ward,66,21,1,Male
-2023-11-02 21:26:33.442622950,Did Not Wait,51,26,3,Female
-2023-11-02 21:38:21.639344262,Admitted to Ward,52,19,2,Female
-2023-11-02 21:50:09.836065573,Discharged Home,45,14,3,Male
-2023-11-02 22:01:58.032786885,Discharged Home,59,17,1,Male
-2023-11-02 22:13:46.229508196,Admitted to Ward,49,20,2,Male
-2023-11-02 22:25:34.426229508,Discharged Home,46,17,4,Female
-2023-11-02 22:37:22.622950819,Discharged Home,52,4,2,Female
-2023-11-02 22:49:10.819672131,Did Not Wait,52,21,2,Male
-2023-11-02 23:00:59.016393442,Discharged Home,59,8,5,Female
-2023-11-02 23:12:47.213114754,Discharged Home,67,6,4,Female
-2023-11-02 23:24:35.409836065,Discharged Home,36,14,1,Male
-2023-11-02 23:36:23.606557377,Discharged Home,57,7,2,Male
-2023-11-02 23:48:11.803278688,Admitted to Ward,52,9,3,Female
-2023-11-03 00:00:00.000000000,Discharged Home,43,17,2,Female
+2023-11-02 00:00:00.000000000,Admitted to Ward,38,11,3,Female
+2023-11-02 00:11:48.196721311,Admitted to Ward,5,3,3,Female
+2023-11-02 00:23:36.393442622,Discharged Home,35,17,3,Male
+2023-11-02 00:35:24.590163934,Did Not Wait,32,10,3,Male
+2023-11-02 00:47:12.786885245,Discharged to nursing Home,41,5,3,Male
+2023-11-02 00:59:00.983606557,Did Not Wait,27,6,3,Female
+2023-11-02 01:10:49.180327868,Discharged Home,17,18,1,Male
+2023-11-02 01:22:37.377049180,Discharged Home,11,13,2,Male
+2023-11-02 01:34:25.573770491,Discharged Home,12,9,1,Male
+2023-11-02 01:46:13.770491803,Admitted to Ward,32,17,4,Female
+2023-11-02 01:58:01.967213114,Discharged Home,25,2,4,Male
+2023-11-02 02:09:50.163934426,Admitted to Ward,29,7,5,Female
+2023-11-02 02:21:38.360655737,Discharged Home,23,9,2,Female
+2023-11-02 02:33:26.557377049,Did Not Wait,26,8,3,Female
+2023-11-02 02:45:14.754098360,Admitted to Ward,33,14,4,Female
+2023-11-02 02:57:02.950819672,Discharged to nursing Home,10,26,4,Female
+2023-11-02 03:08:51.147540983,Admitted to Ward,25,17,2,Female
+2023-11-02 03:20:39.344262295,Discharged Home,38,19,1,Female
+2023-11-02 03:32:27.540983606,Admitted to Ward,10,18,3,Female
+2023-11-02 03:44:15.737704918,Admitted to Ward,13,9,4,Male
+2023-11-02 03:56:03.934426229,Discharged to nursing Home,17,12,3,Female
+2023-11-02 04:07:52.131147540,Admitted to Ward,6,13,3,Male
+2023-11-02 04:19:40.327868852,Admitted to Ward,18,5,2,Male
+2023-11-02 04:31:28.524590163,Did Not Wait,28,12,1,Female
+2023-11-02 04:43:16.721311475,Discharged / Transferred to another hospital,26,3,4,Male
+2023-11-02 04:55:04.918032786,Discharged Home,22,11,5,Female
+2023-11-02 05:06:53.114754098,Discharged Home,22,17,2,Male
+2023-11-02 05:18:41.311475409,Did Not Wait,18,3,5,Female
+2023-11-02 05:30:29.508196721,Discharged Home,26,12,1,Male
+2023-11-02 05:42:17.704918032,Discharged Home,25,11,2,Male
+2023-11-02 05:54:05.901639344,Discharged Home,16,13,1,Female
+2023-11-02 06:05:54.098360655,Discharged Home,10,8,1,Male
+2023-11-02 06:17:42.295081967,Discharged Home,18,8,1,Female
+2023-11-02 06:29:30.491803278,Admitted to Ward,22,13,4,Male
+2023-11-02 06:41:18.688524590,Discharged Home,31,7,1,Female
+2023-11-02 06:53:06.885245901,Admitted to Ward,20,22,5,Male
+2023-11-02 07:04:55.081967213,Discharged Home,21,17,1,Male
+2023-11-02 07:16:43.278688524,Discharged Home,18,7,3,Male
+2023-11-02 07:28:31.475409836,Discharged Home,22,19,4,Female
+2023-11-02 07:40:19.672131147,Admitted to Ward,27,12,2,Male
+2023-11-02 07:52:07.868852459,Did Not Wait,37,21,5,Female
+2023-11-02 08:03:56.065573770,Did Not Wait,45,4,1,Female
+2023-11-02 08:15:44.262295081,Discharged Home,73,4,4,Female
+2023-11-02 08:27:32.459016393,Admitted to Ward,55,16,5,Female
+2023-11-02 08:39:20.655737704,Discharged Home,54,17,4,Female
+2023-11-02 08:51:08.852459016,Discharged Home,72,12,3,Female
+2023-11-02 09:02:57.049180327,Admitted to Ward,53,9,3,Female
+2023-11-02 09:14:45.245901639,Discharged Home,41,17,4,Male
+2023-11-02 09:26:33.442622950,Discharged / Transferred to another hospital,35,21,2,Female
+2023-11-02 09:38:21.639344262,Admitted to Ward,59,7,2,Male
+2023-11-02 09:50:09.836065573,Did Not Wait,47,1,5,Male
+2023-11-02 10:01:58.032786885,Admitted to Ward,58,5,4,Female
+2023-11-02 10:13:46.229508196,Referred to OPD,46,4,3,Male
+2023-11-02 10:25:34.426229508,Discharged Home,28,3,3,Male
+2023-11-02 10:37:22.622950819,Discharged Home,53,6,1,Male
+2023-11-02 10:49:10.819672131,Discharged Home,54,9,3,Male
+2023-11-02 11:00:59.016393442,Discharged Home,55,13,3,Female
+2023-11-02 11:12:47.213114754,Admitted to Ward,39,13,3,Female
+2023-11-02 11:24:35.409836065,Discharged Home,63,14,2,Female
+2023-11-02 11:36:23.606557377,Discharged Home,45,6,1,Female
+2023-11-02 11:48:11.803278688,Admitted to Ward,61,16,2,Female
+2023-11-02 12:00:00.000000000,Discharged Home,52,5,1,Female
+2023-11-02 12:11:48.196721311,Admitted to Ward,49,12,1,Male
+2023-11-02 12:23:36.393442622,Admitted to Ward,57,12,3,Male
+2023-11-02 12:35:24.590163934,Discharged Home,51,17,4,Female
+2023-11-02 12:47:12.786885245,Admitted to Ward,47,20,5,Female
+2023-11-02 12:59:00.983606557,Discharged Home,40,8,2,Female
+2023-11-02 13:10:49.180327868,Discharged Home,31,7,2,Male
+2023-11-02 13:22:37.377049180,Admitted to Ward,57,14,3,Female
+2023-11-02 13:34:25.573770491,Discharged Home,43,10,1,Male
+2023-11-02 13:46:13.770491803,Admitted to Ward,43,6,5,Male
+2023-11-02 13:58:01.967213114,Discharged Home,39,11,4,Male
+2023-11-02 14:09:50.163934426,Discharged Home,37,11,1,Female
+2023-11-02 14:21:38.360655737,Discharged to nursing Home,56,13,1,Female
+2023-11-02 14:33:26.557377049,Admitted to Ward,57,17,4,Female
+2023-11-02 14:45:14.754098360,Admitted to Ward,68,12,3,Female
+2023-11-02 14:57:02.950819672,Discharged Home,64,7,3,Female
+2023-11-02 15:08:51.147540983,Admitted to Ward,48,8,1,Female
+2023-11-02 15:20:39.344262295,Discharged Home,46,14,1,Male
+2023-11-02 15:32:27.540983606,Discharged Home,59,12,5,Male
+2023-11-02 15:44:15.737704918,Discharged Home,53,14,3,Female
+2023-11-02 15:56:03.934426229,Admitted to Ward,54,14,2,Male
+2023-11-02 16:07:52.131147540,Admitted to Ward,45,14,2,Female
+2023-11-02 16:19:40.327868852,Discharged Home,73,22,3,Male
+2023-11-02 16:31:28.524590163,Discharged Home,55,4,1,Female
+2023-11-02 16:43:16.721311475,Discharged Home,54,22,5,Male
+2023-11-02 16:55:04.918032786,Discharged Home,72,13,4,Male
+2023-11-02 17:06:53.114754098,Did Not Wait,53,4,1,Male
+2023-11-02 17:18:41.311475409,Admitted to Ward,41,5,1,Female
+2023-11-02 17:30:29.508196721,Referred to OPD,35,6,4,Female
+2023-11-02 17:42:17.704918032,Did Not Wait,59,6,3,Female
+2023-11-02 17:54:05.901639344,Discharged Home,47,19,1,Female
+2023-11-02 18:05:54.098360655,Discharged Home,58,17,5,Female
+2023-11-02 18:17:42.295081967,Discharged Home,46,16,1,Male
+2023-11-02 18:29:30.491803278,Did Not Wait,28,13,3,Male
+2023-11-02 18:41:18.688524590,Discharged Home,53,4,3,Female
+2023-11-02 18:53:06.885245901,Discharged Home,54,6,4,Male
+2023-11-02 19:04:55.081967213,Did Not Wait,55,8,5,Male
+2023-11-02 19:16:43.278688524,Discharged Home,39,14,5,Male
+2023-11-02 19:28:31.475409836,Did Not Wait,63,8,3,Male
+2023-11-02 19:40:19.672131147,Admitted to Ward,45,8,4,Male
+2023-11-02 19:52:07.868852459,Discharged Home,61,13,4,Female
+2023-11-02 20:03:56.065573770,Discharged Home,52,15,4,Female
+2023-11-02 20:15:44.262295081,Discharged / Transferred to another hospital,49,10,5,Male
+2023-11-02 20:27:32.459016393,Did Not Wait,57,14,4,Male
+2023-11-02 20:39:20.655737704,Discharged / Transferred to another hospital,51,12,4,Female
+2023-11-02 20:51:08.852459016,Discharged Home,47,16,4,Male
+2023-11-02 21:02:57.049180327,Discharged Home,40,6,2,Female
+2023-11-02 21:14:45.245901639,Discharged Home,31,21,4,Male
+2023-11-02 21:26:33.442622950,Discharged Home,57,6,4,Female
+2023-11-02 21:38:21.639344262,Discharged Home,43,14,5,Male
+2023-11-02 21:50:09.836065573,Discharged Home,43,5,5,Male
+2023-11-02 22:01:58.032786885,Admitted to Ward,39,9,3,Female
+2023-11-02 22:13:46.229508196,Admitted to Ward,37,6,4,Female
+2023-11-02 22:25:34.426229508,Discharged Home,56,15,1,Female
+2023-11-02 22:37:22.622950819,Admitted to Ward,57,5,1,Female
+2023-11-02 22:49:10.819672131,Discharged Home,68,4,5,Male
+2023-11-02 23:00:59.016393442,Admitted to Ward,64,3,5,Female
+2023-11-02 23:12:47.213114754,Admitted to Ward,48,15,1,Male
+2023-11-02 23:24:35.409836065,Discharged Home,46,6,4,Female
+2023-11-02 23:36:23.606557377,Admitted to Ward,59,23,2,Female
+2023-11-02 23:48:11.803278688,Admitted to Ward,53,4,2,Female
+2023-11-03 00:00:00.000000000,Discharged Home,54,7,4,Male

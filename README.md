@@ -14,9 +14,10 @@
     * [Hours_in_Department](#hours_in_department)
     * [TRIAGE_CATEGORY](#tRIAGE_cATEGORY)
     * [Sex](#sex)
-* [5 Simulation of Dataset](#5-simulation-of-dataset)       
-* [6 Conclusion](#6-conclusion)             
-* [7 References](#7-references)   
+* [5 Simulation of Dataset](#5-simulation-of-dataset)   
+* [6 Correlation](#6-correlation)    
+* [7 Conclusion](#7-conclusion)             
+* [8 References](#8-references)   
 
 
 1 Introduction project
@@ -113,13 +114,21 @@ This variable describes the gender of the patient. I will go into detail in this
 5 Simulation of Dataset
 ======
 
-This section of my project after deciphering the type of variable, ddistribution of each of the variables I will simulate the 6 variables for 24 time period with a date of 02/11/2023.
+This section of my project after deciphering the type of variable, distribution of each of the variables I will simulate the 6 variables for 24 time period with a date of 02/11/2023.
 
-6 Conclusion
+6 Correlation
+======
+Correlation is a statistical measure that expresses the extent to which two variables are linearly related (meaning they change together at a constant rate). It's a common tool for describing simple relationships without making a statement about cause and effect.
+
+In this section I detail the correlations between the different variables on both the original and simulated dataset.
+
+7 Conclusion
 ======
 
 
-7 References
+
+
+8 References
 ======
 
 https://www.investopedia.com/terms/b/bell-curve.asp#:~:text=The%20term%20%22bell%20curve%22%20is,given%20values%20around%20the%20mean
