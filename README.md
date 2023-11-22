@@ -14,7 +14,7 @@
     * [Hours_in_Department](#hours_in_department)
     * [TRIAGE_CATEGORY](#tRIAGE_cATEGORY)
     * [Sex](#sex)
-* [5 Simulation of Dataset](#6-simulation-of-dataset)       
+* [5 Simulation of Dataset](#5-simulation-of-dataset)       
 * [6 Conclusion](#6-conclusion)             
 * [7 References](#7-references)   
 
@@ -43,7 +43,7 @@ Specifically, in this project you should:<br><br>
 ======
 
 -	Visual Studio Code
--	Python 3
+-	Python 3 
 -	Github - https://github.com/AudeAllen/PDA_Assignment
 -   Jupyter Notebook
 
@@ -89,17 +89,31 @@ This is the datetime that a patient arrives at the Emergency Department. I go in
 
 ### ***DISCH_DEST***
 
+The DISCH_DEST is the location the patient goes to after they leave the emergency department. I go into detail in this section about the variable DISCH_DEST, the type of variable it is, type of distribution. Finally I simulate 24 hours data by using a numpy.random distribution function. 
+
 ### ***Age***
+
+This is age of the patient at the time of the attendance to the Emergency Department.  I go into detail in this section about the variable Age, the type of variable it is, type of distribution. Finally I simulate 24 hours data by using a numpy.random distribution function.
 
 ### ***Hours_in_Department***
 
+This is the length of time in hours that a patient has spent in the department. Again I will go into detail in this section about the variable Hours_in_Department, the type of variable it is, type of distribution. Finally I simulate 24 hours data by using a numpy.random distribution function.
+
 ### ***TRIAGE_CATEGORY***
 
+The Triage Category is based on the Manchester triage system. The Manchester Triage System is one of Europe's most used triage systems considering five levels to prioritize patients in the ED: level 1 (red), immediate; level 2 (orange), very urgent; level 3 (yellow), urgent; level 4 (green), standard; level 5 (blue), non-urgent.
+
+I will go into detail in this section about the variable TRIAGE_CATEGORY, the type of variable it is, type of distribution. Finally I simulate 24 hours data by using a numpy.random distribution function.
+
 ### ***Sex***
+
+This variable describes the gender of the patient. I will go into detail in this section about the variable Sex, the type of variable it is, type of distribution. Finally I simulate 24 hours data by using a numpy.random distribution function.
 
 
 5 Simulation of Dataset
 ======
+
+This section of my project after deciphering the type of variable, ddistribution of each of the variables I will simulate the 6 variables for 24 time period with a date of 02/11/2023.
 
 6 Conclusion
 ======
