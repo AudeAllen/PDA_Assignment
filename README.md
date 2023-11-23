@@ -125,7 +125,7 @@ In this section I detail the correlations between the different variables on bot
 7 Conclusion
 ======
 
-
+Conclusion of project
 
 
 8 References
@@ -162,4 +162,6 @@ https://www.geeksforgeeks.org/python-pearson-correlation-test-between-two-variab
 https://karger.com/ger/article-abstract/59/1/17/148039/Correlation-between-Age-Emergency-Department?redirectedFrom=fulltext
 
 https://emj.bmj.com/content/32/12/994.1
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8830250/
 
