@@ -61,7 +61,7 @@ How to run PDA_Assignment project -
 
 
 - This will run the script and create all the graphs and visual aids for this project
-- I have uploaded all of my project files to my github respository.  Git is a version control system that I use in this project. (See Github link above)
+- I have uploaded all of my project files to my github respository. 
 
 
 The below libraries/packages were imported to aid analysis on the dataset
@@ -75,7 +75,7 @@ The below libraries/packages were imported to aid analysis on the dataset
 
 3 Attendances at an Emergency Department over a period of 24 hours 
 ======
-In this section I will go into some detail about the real world phenomenon that I have chosen for this project and why. I have chosen the phenomenon of 24 hours in an Emergency Department. 
+In this section I will go into some detail about the real world phenomenon that I have chosen for this project and why. I have chosen 24 hours in an Emergency Department. 
 
 
 4 Types of Variables and Scales of Measurement
@@ -94,11 +94,11 @@ The DISCH_DEST is the location the patient goes to after they leave the emergenc
 
 ### ***Age***
 
-This is age of the patient at the time of the attendance to the Emergency Department.  I go into detail in this section about the variable Age, the type of variable it is, type of distribution. Finally I simulate 24 hours data by using a numpy.random distribution function.
+This is age of the patient at the time of the attendance to the Emergency Department.  I will explain in this section about the variable Age, the type of variable it is, type of distribution. Finally I simulate 24 hours data by using a numpy.random distribution function.
 
 ### ***Hours_in_Department***
 
-This is the length of time in hours that a patient has spent in the department. Again I will go into detail in this section about the variable Hours_in_Department, the type of variable it is, type of distribution. Finally I simulate 24 hours data by using a numpy.random distribution function.
+This is the length of time in hours that a patient has spent in the department. Again I will explain in this section about the variable Hours_in_Department, the type of variable it is, type of distribution. Finally I simulate 24 hours data by using a numpy.random distribution function.
 
 ### ***TRIAGE_CATEGORY***
 
